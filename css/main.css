@@ -1,0 +1,17 @@
+.projects {
+    margin-top: 100px;
+}
+
+.keep-left {
+    float: left;
+}
+
+.desc {
+    padding-top: 60px;
+}
+
+.line-break {
+    border-bottom: dashed;
+    border-bottom-color: #c2ccd1;
+    margin: 15px;
+}
